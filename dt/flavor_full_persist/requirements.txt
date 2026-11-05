@@ -1,0 +1,2 @@
+# Optional: Pillow improves bundled food-photo display.
+Pillow>=10.0.0
